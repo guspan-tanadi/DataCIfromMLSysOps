@@ -3,7 +3,7 @@ pipelines. In this tutorial, we will show how to use DataCI to benchmark the dat
 
 Data is the most important part of the machine learning pipeline. Data scientists spend most of their time cleaning,
 augmenting, and preprocessing data, only to find the best online performance with the same model structure.
-[In the previous tutorial](/example/create_text_classification_dataset), we built 4 versions of the text classification
+[In the previous tutorial](/example/continuous_text_classification_dev), we built 4 versions of the text classification
 dataset `train_data_pipeline:text_aug`. We are now going to determine which dataset performs the best.
 
 # 0. Prerequisites

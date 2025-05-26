@@ -187,7 +187,7 @@ sentiment_analysis_pipeline.run()
 ```
 
 Alternatively, we can let DataCI automatically trigger the pipeline run upon a new dataset is published,
-please refer to the [DataCI Trigger Tutorial]() (WIP).
+please refer to the [DataCI Trigger Tutorial](/example/ci) (WIP).
 
 Go to [pipeline runs dashboard](http://localhost:8080/taskinstance/list/?_flt_3_dag_id=default--sentiment_analysis--v1)
 to check the pipeline run result.
